@@ -1,0 +1,17 @@
+5 5
+15
+F
+F
+F
+F
+F
+TR
+F
+F
+L
+B
+R
+R
+TL
+TL
+B
